@@ -139,4 +139,9 @@ Please see [GitHub’s](https://docs.github.com/en/github/site-policy/dmca-taked
 
 ## Time Tracking and Change Log
 
+### Saturday 02 July
+
+- `10:16` //_Good morning_
+- `11:31` Setup repo
+
 [Back To The Top](#using-excel-as-a-database-with-vba)
